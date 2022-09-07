@@ -1,3 +1,3 @@
 Welcome To India
 
-WELCOME WELCOME WELCOME
+WELCOME to git practice
